@@ -1,7 +1,8 @@
 # Product-Cards---HTML
 The project was built to practice more hover animations, image alignment utilizing flexbox. 
 
-Key notes: In this project, i utilized hover effects that allow the image to be zoomed in on when hovered over
+### Key notes: 
+In this project, I utilized hover effects that allow the image to be zoomed in on when hovered over
 while also utilizing flexbox to allow the cards to adapt to different screen sizes. 
 
 Below are the screenshots of the Product Cards. 
